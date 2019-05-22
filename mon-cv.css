@@ -1,0 +1,54 @@
+body{
+
+}
+
+.page{
+	margin : auto;
+	width : 1000px;
+}
+
+
+h2{
+	background-color :  #223560;
+	color : #FFFFFF;
+	font-size : 32px;
+}
+
+strong{
+	font-size : 30px;
+}
+
+
+.photo{
+	object-fit : cover;
+	width : 200px;
+	border-radius : 30%;
+	float : left;
+}
+
+.info{
+	font-size : 20px;
+	color : white;
+}
+
+
+.interligne{
+	height : 25px;
+}
+
+
+#bandeau1{
+	width : 380px;
+	height : 900px;
+	background-color : #6d7891;
+	float : left;
+}
+
+#section{
+	margin-bottom : 70px;
+	margin-left : 40px;
+	text-align : justify;
+}
+
+
+
